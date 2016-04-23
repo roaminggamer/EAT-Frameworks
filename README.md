@@ -1,2 +1,3 @@
 # EAT-Frameworks
-EAT Frameworks Support Page
+
+ * latest binaries/ - Latest (executable) binaries for Win 32 and OS X.
