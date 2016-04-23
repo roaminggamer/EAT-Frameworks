@@ -1,2 +1,2 @@
-# EAT-Suite
-EAT Tools and Tool Related Repository
+# EAT-Frameworks
+EAT Frameworks Support Page
