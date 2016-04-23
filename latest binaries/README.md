@@ -1,5 +1,5 @@
 # Release Notes
 
-_2016.001_
+__2016.001__
  * First early-adopter release.
 
