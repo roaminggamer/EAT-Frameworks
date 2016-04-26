@@ -9,6 +9,9 @@ While I work out a solution to this, I will be building two fixed resolution bui
 
 ## Release Notes
 
+__2016.006__ (26 APR 2016)
+ * Resolved syntax error  with build.settings 'supportsScreens' table.  
+
 __2016.005__ (26 APR 2016)
  * Created two builds of OSX to temporarily alleviate issue with resize().  Work continues on better solution. 
 
