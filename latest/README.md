@@ -1,4 +1,4 @@
-**Note For OS X Users**
+ ## Note For OS X Users
 OS X Desktop does not support 'adaptive' scaling which is crucial to allowing dynamic window resizing (without re-scaling).
 
 While I work out a solution to this, I will be building two fixed resolution builds for OSX in these folders:
