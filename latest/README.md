@@ -1,4 +1,4 @@
-# Release Notes
+# EAT - Frameworks Executables
 
 ## Special Note For OS X Users
 OS X Desktop does not support 'adaptive' scaling which is crucial to allowing dynamic window resizing (without re-scaling).
@@ -7,7 +7,7 @@ While I work out a solution to this, I will be building two fixed resolution bui
  * OSX/ - 1778 x 1000 (should fit on a 1920 x 1080 and larger sized monitor.)
  * OSX_SmallScreen/ - 1200 x 675 (should fit on a 1200 x 800 resolution MacBook monitor.)
 
-## Latest Release First
+## Release Notes
 
 __2016.005__ (26 APR 2016)
  * Created two builds of OSX to temporarily alleviate issue with resize().  Work continues on better solution. 
