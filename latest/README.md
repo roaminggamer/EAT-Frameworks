@@ -11,6 +11,7 @@ While I work out a solution to this, I will be building two fixed resolution bui
 
 __2016.007__ (06 MAY 2016) 
  * Mobile Monetizer -
+  * Enabled NoAds IAP for iOS and Android. (Kindle still WIP).
   * Added games:
    * Balloon Pop
    * Gear Jumper
