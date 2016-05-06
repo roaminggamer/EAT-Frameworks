@@ -9,6 +9,30 @@ While I work out a solution to this, I will be building two fixed resolution bui
 
 ## Release Notes
 
+__2016.007__ (06 MAY 2016) 
+ * Mobile Monetizer -
+  * Added games:
+   * Balloon Pop
+   * Gear Jumper
+   * Musical Memory
+   * Tic Toe
+  * Refined Ad Network Helper Libraries: AdMob, AppLovin, Vungle.
+  * Added RevMob support.
+  * Added AdMob interstitial support.
+ * Apple TV Monteizer -
+  * Enabled generation.
+  * Added games:
+   * Blank
+   * Tap Tap
+   * Gear Jumper
+   * Tic Toe
+ * Added AppLovin ad support. *
+ * General - 
+  * Added features to OOP Buttons, including Apple TV support.
+  * Changed Library Folder Hiearchies to use com.company.lib structure.  (Kudos to Michael Wilson)
+  * Fixed many bugs, including broken Smart Pixel generation.
+
+
 __2016.006__ (26 APR 2016)
  * Resolved syntax error  with build.settings 'supportsScreens' table.  
 
