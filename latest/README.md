@@ -1,4 +1,9 @@
 # EAT - Frameworks Executables
+## Direct Download Links:
+ * Windows: https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/Windows/EAT%20Frameworks.zip
+ * OSX: https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/OSX/EAT%20Frameworks.dmg
+ * OSX Small Screen: https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/OSX/EAT%20Frameworks.dmg
+
 
 ## Special Note For OS X Users
 OS X Desktop does not support 'adaptive' scaling which is crucial to allowing dynamic window resizing (without re-scaling).
