@@ -2,17 +2,14 @@
 ## Direct Download Links:
  * [Windows](https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/Windows/EAT%20Frameworks.zip)
  * [OSX](https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/OSX/EAT%20Frameworks.dmg)
- * [OSX Small Screen](https://github.com/roaminggamer/EAT-Frameworks/raw/master/latest/OSX_SmallScreen/EAT%20Frameworks.dmg)
 
-
-## Special Note For OS X Users
-OS X Desktop does not support 'adaptive' scaling which is crucial to allowing dynamic window resizing (without re-scaling).
-
-While I work out a solution to this, I will be building two fixed resolution builds for OSX in these folders:
- * **OSX** - 1778 x 1000 (should fit on a 1920 x 1080 and larger sized monitor.)
- * **OSX_SmallScreen** - 1200 x 675 (should fit on a 1200 x 800 resolution MacBook monitor.)
 
 ## Release Notes
+__2016.008__ (22 JUL 2016) 
+ * Plugins - Now supports all but one (Corona Viewer) plugin.
+ * Projects - Refined list and cleaned them all up to function better.
+ * Bugs - Fixed a ton of bugs in the generated frameworks, sample games, and addon tools.
+ 
 
 __2016.007__ (06 MAY 2016) 
  * Mobile Monetizer -
